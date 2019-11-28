@@ -1,0 +1,2 @@
+# koook
+learn language c
